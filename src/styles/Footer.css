@@ -1,0 +1,29 @@
+footer {
+	background-color: #9833f7;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 0 5rem;
+	color: #fff;
+}
+
+.leftSide {
+	padding: 0px 0px;
+}
+
+.leftSide ul,
+.rightSide ul {
+	padding: 0 0;
+}
+
+ul .listFooter {
+	padding: 5px 0;
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}
+
+.listFooter:hover {
+	color: #0e1013;
+	cursor: pointer;
+}
